@@ -1,4 +1,4 @@
-# taskapp
+# Taskapp
 
 A simple Android Application to toggle flashlight based on device battery percentage.
 
