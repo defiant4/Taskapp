@@ -25,9 +25,9 @@ After successfully building the project, you can use the .apk file to test out t
 Master Branch - Android lifecycle has been adapted as per eclipse, SDK, ADT style.
 Production Branch - Android lifecycle has been adapted as per Android Studio style
 
-## Deployment
+## Contributing
 
-For final deployment 
+Contribution is always welcome. For pull/push request contact the author personally.
 
 ## Authors
 
